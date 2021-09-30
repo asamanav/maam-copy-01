@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Wobsite in a wobsite
+    title: Love you Asami!!!
     subtitle: Write about it in your blag.
     actions:
       - label: Learn More
