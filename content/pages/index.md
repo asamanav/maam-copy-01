@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Love you Asami!!!
-    subtitle: Write about it in your blag.
+    subtitle: 'Sorry about slow manu, will improve'
     actions:
       - label: Learn More
         url: /features
