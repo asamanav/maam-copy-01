@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Wobsite in a wobsite
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Write about it in your blag.
     actions:
       - label: Learn More
         url: /features
